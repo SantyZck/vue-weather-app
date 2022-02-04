@@ -1,2 +1,2 @@
 # vue-weather-app
-Weather app with Vue.js (v.2)
+## Weather app with Vue.js (v.3)
